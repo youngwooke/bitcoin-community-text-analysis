@@ -132,7 +132,6 @@
 ---
 
 ## 📂 프로젝트 구조
-
 bitcoin-community-text-analysis/
 │
 ├── code/
@@ -148,8 +147,8 @@ bitcoin-community-text-analysis/
 │ ├── noun_frequency.png
 │ ├── sentiment_distribution.png
 │
-├── thesis/
-│ └── thesis.pdf
+├── paper/
+│ └── paper.pdf
 │
 └── README.md
 ---
