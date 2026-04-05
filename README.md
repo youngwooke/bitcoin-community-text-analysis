@@ -65,6 +65,25 @@
 ---
 
 ## 📂 프로젝트 구조
+bitcoin-community-text-analysis/
+│
+├── code/
+│ ├── preprocessing.py
+│ ├── embedding.py
+│ ├── clustering.py
+│ ├── sentiment.py
+│
+├── data/
+│ └── sample_data.csv
+│
+├── results/
+│ ├── noun_frequency.png
+│ ├── sentiment_distribution.png
+│
+├── paper/
+│ └── paper.pdf
+│
+└── README.md
 # 비트코인 커뮤니티 텍스트 분석
 
 ## 📌 개요
